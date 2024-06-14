@@ -1,23 +1,21 @@
 {
-    "posts": [
+    "files": [
         {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "hash": "XXXHASHXXX",
+            "Id": 32041,
+            "verdict": "Benign",
+            "sha256": "B46011B454BD960B1F8BF30131BE98E19F1A171D2F02BOFD4FDD5985845CEDIA",
+            "shal": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
+            "mdS": "FE0D85FA898C160A82E761C1C88929AB",
+            "details": "file.exe",
+            "created _at": "2018-11-0810:55:50.23",
+            "status": "Verdict",
+            "verdict _static": "Benign",
+            "verdict _dynamic": "Benign",
+            "verdict _user": "Undefined",
+            "message": null,
+            "comment": null
+
         },
         {
             "id": 2,
@@ -35,4 +33,5 @@
         },
         "Status": "Registered, expired at 31.12.2024 23:59:59"
     }
+    
 }
