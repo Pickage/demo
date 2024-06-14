@@ -1,7 +1,6 @@
 {
-    "files": [
-        {
-            "hash": "HASH001",
+    "files": {
+        "HASH001": {
             "Id": 1001,
             "verdict": "Benign",
             "sha256": "B46011B454BD960B1F8BF30131BE98E19F1A171D2F02BOFD4FDD5985845CEDIA",
@@ -16,14 +15,13 @@
             "message": null,
             "comment": null
         },
-        {
-            "hash": "HASH002",
+        "HASH002": {
             "Id": 1002,
             "verdict": "Benign",
             "sha256": "B46011B454BD960B1F8BF30131BE98E19F1A171D2F02BOFD4FDD5985845CEDIA",
             "shal": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
             "mdS": "FE0D85FA898C160A82E761C1C88929AB",
-            "details": "file2.exe",
+            "details": "file.exe",
             "created _at": "2018-11-0810:55:50.23",
             "status": "Verdict",
             "verdict _static": "Benign",
@@ -32,7 +30,7 @@
             "message": null,
             "comment": null
         }
-    ],
+    },
     "license": {
         "Key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "ExpiredAt": "2020-11-30T00:00:00",
@@ -43,5 +41,4 @@
         },
         "Status": "Registered, expired at 31.12.2024 23:59:59"
     }
-    
 }
