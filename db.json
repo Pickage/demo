@@ -17,7 +17,7 @@
             "Id": 1001
             "verdict": "Benign",
             "sha256": "B46011B454BD960B1F8BF30131BE98E19F1A171D2F02BOFD4FDD5985845CEDIA",
-            "shal": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
+            "sha1": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
             "mdS": "FE0D85FA898C160A82E761C1C88929AB",
             "details": "file.exe",
             "created_at": "2018-11-0810:55:50.23",
@@ -33,7 +33,7 @@
             "Id": 1002
             "verdict": "Benign",
             "sha256": "B46011B454BD960B1F8BF30131BE98E19F1A171D2F02BOFD4FDD5985845CEDIA",
-            "shal": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
+            "sha1": "3BB0A15A6369CD0C77A03ESAC487AF35AB378DED",
             "mdS": "FE0D85FA898C160A82E761C1C88929AB",
             "details": "file.exe",
             "created_at": "2018-11-0810:55:50.23",
