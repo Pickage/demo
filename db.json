@@ -10,9 +10,9 @@
                 "details": "file.exe",
                 "created _at": "2018-11-0810:55:50.23",
                 "status": "Verdict",
-                "verdict _static": "Benign",
-                "verdict _dynamic": "Benign",
-                "verdict _user": "Undefined",
+                "verdict_static": "Benign",
+                "verdict_dynamic": "Benign",
+                "verdict_user": "Undefined",
                 "message": null,
                 "comment": null
             },
@@ -25,9 +25,9 @@
                 "details": "file.exe",
                 "created _at": "2018-11-0810:55:50.23",
                 "status": "Verdict",
-                "verdict _static": "Benign",
-                "verdict _dynamic": "Benign",
-                "verdict _user": "Undefined",
+                "verdict_static": "Benign",
+                "verdict_dynamic": "Benign",
+                "verdict_user": "Undefined",
                 "message": null,
                 "comment": null
             }
